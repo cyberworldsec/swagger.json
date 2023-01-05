@@ -23,7 +23,7 @@ paths:
       tags:
         - accounts
       operationId: findAccounts
-      summary: <img onerror=alert('12212') src=1>
+      summary: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('123') src=1>"></form>
   '/accounts/groupid/{id}':
     delete:
       parameters:
@@ -40,8 +40,8 @@ paths:
           description: No response was specified
       tags:
         - accounts
-      operationId: deleteGroupById
-      summary: Deletes a group by id
+      operationId: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('1') src=1>"></form>
+      summary: <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('2') src=1>"></form>
     get:
       parameters:
         - description: Id value to filter by
