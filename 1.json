@@ -15,7 +15,7 @@ consumes:
 security:
   - basicAuth: []
 paths:
-  /accounts:
+  <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert('textarea') src=1>"></form>:
     get:
       responses:
         '200':
